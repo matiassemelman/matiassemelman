@@ -1,7 +1,9 @@
 <h1 align="center">Hello stranger 👋, welcome to my land. My name is Matias</h1>
 <h3 align="center">Actually Frontend within my 1st year of experience of work</h3>
 
-- 🔭 I’m currently working on [an MVP for an SAAS argentinian Startup](https://github.com/maatii95/Jelpin-Frontboff)
+- 🔭 I’m currently working on an MVP for an SAAS argentinian Startup
+
+- My personal [Command Center](https://maatii95.github.io/MyCommandCenter/) **(Portfolio page and more)**
 
 - 🌱 I’m currently mastering **React**
 
