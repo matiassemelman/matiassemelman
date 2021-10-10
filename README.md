@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mastering **React**
 
-- 💬 Ask me for help. If IDK something, **I'll try to help you too.**
+- 💬 Ask me for help. If IDK something, **I'll try to help you.**
 
 - 📫 How to reach me **matias.semelman@gmail.com**
 
