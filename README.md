@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an MVP for an SAAS argentinian Startup
 
-- My personal [Command Center](https://maatii95.github.io/MyCommandCenter/) **(Portfolio page and more)**
+- My personal [Command Center](https://matiassemelman.github.io/MyCommandCenter/) **(Portfolio page and more)**
 
 - 🌱 I’m currently mastering **React**
 
