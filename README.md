@@ -1,43 +1,40 @@
-# Hi I'm Matias 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-MatiasSemelman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-semelman/)](https://www.linkedin.com/in/matias-semelman/)
-[![Gmail Badge](https://img.shields.io/badge/-matiassemelman-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matiassemelman@gmail.com)](mailto:matiassemelman@gmail.com)
-
-Welcome to my profile! I'm a student, part-time coder and full-time adventurer. I am current working in a new project for [NoCountry](http://nocountry.tech/), and have previously developed a backoffice Frontend for [Jelpin](https://jelpin.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matias-semelman/)!
+Hi 👋 My name is Matias Semelman, aka Tazman
 
 
-## Technologies and languages I use:
-
-### Each day
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-### Technologies I used it for some projects
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I'm a Frontend Developer with interest on ML/DL
 
 
-## Hostings
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+TL;DR : I become developer to help improving our world, in search of joining someone who work on United Nation first and second objectives (Ending poverty and zero hunger) Long Story! Skip if you want. After reaching mid level commercial, financial and logistic positions, I felt challenged but not fulfilled. Deep questions started to appear and the question: "¿What I want to do with my finite life?" Two things I have for sure. I love programming, and I want to reach the end of my life with something BIG done for our civilization. 
 
-## Settings
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+While I worked 9-5 as a commercial supervisor, I started my programming journey as self-taught for a month, until a friend told me that a professor of two renowned universities was teaching a free intensive course from 0 programming to React, so I jumped in. The love for programming was at first sight. Every thing I write can solve anything I want. I founded the perfect skill to my objectives of helping. Perfect because I love to learn and to challenge myself. Perfect because is real power in our hands. The way i'm going to do is not linear, so maybe I would have to work in objectives far away from what I want, but in the variety of knowledge is where the best solutions appears.
+
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [Under construction](http://rebrand.ly/r1ckr0l13r)
+* ✉️  You can contact me at [matias.semelman@gmail.com](mailto:matias.semelman@gmail.com) 
+* 🚀  I'm currently working on [Alkemy React Challenge](http://https://github.com/matiassemelman/challenge) 
+* 🧠  I'm learning advance React, and doing a self-taught BS in Computer Science.
+* 🤝  I'm open to collaborating on projects related to help and improve the life of people 
+* ⚡  Things I love: Calysthenics and strenght training, cycling, philosophy, functional food, black holes, psychology, sales, geopolitcs and warfare, technology advances and more, lots more.
+
+### Skills
+
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+### Socials<p align="left"> <a href="https://discord.com/users/matias.semelman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/matiassemelman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matias-semelman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matiassemelman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/matiassemelman"><img src="https://github-readme-stats.vercel.app/api?username=matiassemelman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="matiassemelman's GitHub stats" /></a>
+
+<a href="http://www.github.com/matiassemelman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matiassemelman&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/matiassemelman"><img src="https://activity-graph.herokuapp.com/graph?username=matiassemelman&bg_color=1e3a8a&color=ffffff&line=0891b2&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/matiassemelman/C4-G19-M" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matiassemelman&repo=C4-G19-M&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/matiassemelman/edmachinachallenge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matiassemelman&repo=edmachinachallenge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/matiassemelman/challenge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=matiassemelman&repo=challenge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
