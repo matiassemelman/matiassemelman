@@ -7,8 +7,8 @@
 
 * 🌍  I'm based in Argentina
 * ✉️  Contact at [matias.semelman@gmail.com](mailto:matias.semelman@gmail.com) || [Whatsapp](http://wa.me/5491130332808)
-* 🚀  I'm currently working at [Ingenia.la](https://ingenia.la/) as SA.
-* 🧠  I'm improving my React skills, while preparing the Amazon CCP. Follows the 3 AWS Associates.
+* 🚀  I'm currently working at [Ingenia.la](https://ingenia.la/) as Software Developer
+* 🧠  I'm improving my Front End Skills, currrently learning NextJS, for an upcoming project.
 * 🤝  I'm open to collaborating on projects related to help and improve the life of people 
 * ⚡  Things I love: Calysthenics and strenght training, cycling, philosophy, functional food, black holes, psychology, sales, geopolitcs and warfare, technology advances and more, lots more.
 
