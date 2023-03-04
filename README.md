@@ -1,7 +1,7 @@
 # Hi 👋 My name is Matias Semelman, aka Tazman
 
 
-## I'm a Frontend Developer with interest on Cloud and Security for my future. 
+## I'm a Frontend Developer with interest to learn Backend and IoT
 
 
 
