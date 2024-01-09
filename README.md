@@ -7,10 +7,10 @@
 
 * 🌍  I'm based in Argentina
 * ✉️  Contact at [matias.semelman@gmail.com](mailto:matias.semelman@gmail.com) || [Whatsapp](http://wa.me/5491130332808)
-* 🚀  I'm currently working at [Ingenia.la](https://ingenia.la/) as Software Developer
+* 🚀  I'm looking for a new position as Frontend Developer!
 * 🧠  I'm improving my Front End Skills, currently mastering NextJS
 * 🤝  I'm open to collaborating on projects related to help and improve the life of people 
-* ⚡  Things I love: Calysthenics and strenght training, cycling, philosophy, functional food, black holes, psychology, sales, geopolitcs and warfare, technology advances and more, lots more.
+* ⚡  Interests & Hobbies: Rock and Blues singer, guitar player, strength and HIIT training, personal and spiritual development, hiking and nature, cutting-edge tech, Artificial Intelligence, LLMs.
 
 ### Skills
 
