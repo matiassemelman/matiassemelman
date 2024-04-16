@@ -1,13 +1,13 @@
 # Hi 👋 My name is Matias Semelman
 
 
-## I'm a Frontend Developer with passion about startups
+## I'm a Full Stack Developer with passion about startups
 
 
 
 * 🌍  I'm based in Argentina
 * ✉️  Contact at [matias.semelman@gmail.com](mailto:matias.semelman@gmail.com) || [Whatsapp](http://wa.me/5491130332808)
-* 🚀  I'm looking for a new position as Frontend Developer!
+* 🚀  I'm looking for a new position as Full Stack Developer!
 * 🧠  I'm improving my Front End Skills, currently mastering NextJS
 * 🤝  I'm open to collaborating on projects related to help and improve the life of people 
 * ⚡  Interests & Hobbies: Rock and Blues singer, guitar player, strength and HIIT training, personal and spiritual development, hiking and nature, cutting-edge tech, Artificial Intelligence, LLMs.
